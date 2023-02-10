@@ -1,0 +1,30 @@
+body {
+    background-color: #e5e5f7;
+
+background-image: radial-gradient(#459ef7 0.5px, #e5e5f7 0.5px);
+background-size: 10px 10px;
+display: flex;
+min-height: 100vh;
+}
+
+
+div {
+background-color: white;
+margin: auto;
+width: 90%;
+max-width: 400px;
+padding: 4.5em 3em;
+border-radius: 10px;
+box-shadow: 0 5px 10px --5px rgb(0 0 0 / 30%);
+text-align: center;
+
+}
+
+h1{
+    font-size: 45px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div.p{
+    font: size 30px;
+}
